@@ -12,7 +12,7 @@ source:
     - fixes.patch
 
 build:
-  number: 3
+  number: 4
   entry_points:
     - sqsgen = sqsgenerator.cli:cli
   script_env:
