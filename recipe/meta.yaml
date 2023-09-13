@@ -10,7 +10,7 @@ source:
   sha256: 983e20a97203b37dc4d21850e1a9693023cb1516bf543f645cbbac198a84f23c
 
 build:
-  number: 6
+  number: 7
   entry_points:
     - sqsgen = sqsgenerator.cli:cli
   script_env:
