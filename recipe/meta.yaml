@@ -12,7 +12,7 @@ source:
     - pycompat.patch
 
 build:
-  number: 0
+  number: 1
   entry_points:
     - sqsgen = sqsgenerator.cli:cli
   script_env:
