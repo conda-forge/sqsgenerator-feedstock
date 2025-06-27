@@ -8,8 +8,6 @@ package:
 source:
   url: https://github.com/dgehringer/{{ name }}/archive/refs/tags/v{{ version }}.tar.gz
   sha256: d39d8c26011e18f5f60d2928914e381d777433973ce24aa9af6ec85b4711f0d6
-  patches:
-    - fixes.patch
 
 build:
   number: 0
