@@ -11,7 +11,7 @@ source:
 
 
 build:
-  number: 0
+  number: 1
   entry_points:
     - sqsgen = sqsgenerator.cli:cli
   skip: true  # [ppc64le]
